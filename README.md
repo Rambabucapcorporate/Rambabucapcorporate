@@ -40,26 +40,6 @@ Here are a few highlights about my journey:
 
 ---
 
-## 🚀 My Projects
-
-### **1️⃣ Advanced Malware Detection**
-**Description:** Leveraged ML and DL techniques for malware detection and classification.  
-**Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas  
-
-### **2️⃣ Smart Document Assistant**
-**Description:** Voice-interactive document assistant powered by AI.  
-**Tech Stack:** Python, LLMs, RAG, Streamlit, Hugging Face  
-
-### **3️⃣ ETL Pipeline with Apache Airflow**
-**Description:** Automated ETL pipeline deployed on AWS.  
-**Tech Stack:** Apache Airflow, AWS, Python  
-
-### **4️⃣ Comprehensive Data Analysis and ML Dashboard**
-**Description:** A Streamlit-based web app for advanced data analysis and ML tools.  
-**Tech Stack:** Python, Scikit-learn, Streamlit  
-
-Check out more of my projects [here](https://github.com/Rambabucapcorporate/Rambabucapcorporate/tree/main).
-
 ---
 
 ## 📈 GitHub Stats
@@ -72,8 +52,8 @@ Check out more of my projects [here](https://github.com/Rambabucapcorporate/Ramb
 
 I’m always open to networking, collaborations, and exploring new opportunities. Feel free to reach out to me:
 
-- 📧 **Email:** [karravularambabu@gmail.com](mailto:karravularambabu@gmail.com)  
-- 📍 **Location:** Hyderabad, India  
+- 📧 **Email:** [karravularambabu@gmail.com](mailto:rambabu@capcorporate.com)  
+- 📍 **Location:** Chennai, Tamil Nadu, India  
 
 ---
 
