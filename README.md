@@ -1,69 +1,83 @@
-# 👋 Hi, I'm Rambabu Karravula!
+# 👋 Hello, I'm Rambabu Karravula!
 
-🌟 Welcome to my GitHub profile! I'm a passionate **Machine Learning Engineer** with experience in **Python, Java, TypeScript**, and **JavaFX**. I love building **robust applications**, solving problems, and contributing to meaningful projects.
-
----
-
-## 🔍 About Me
-
-- 🌱 Currently exploring **JavaFX** for developing scalable and performant desktop applications.
-- 🛠️ Focused on creating secure and efficient software solutions.
-- 💡 Interested in **open-source contributions**, **software development best practices**, and **innovative technologies**.
-- 🎯 Passionate about learning and improving with every project.
+🌟 **Data Scientist/Engineer, AI/ML and Cloud Engineer**  
+Welcome to my GitHub profile! I'm passionate about leveraging data and technology to solve real-world problems and create innovative solutions.
 
 ---
 
-## 🛠️ My Technical Skills
+## 🧑‍💻 About Me
 
-### **Languages:**
-- Python 🐍
-- Java ☕
-- TypeScript 🌐
+I specialize in **Data Science**, **Artificial Intelligence/Machine Learning (AI/ML)**, and **Cloud Engineering**. With a strong theoretical foundation and hands-on experience, I have worked on developing **generative AI applications**, fine-tuning **LLMs**, and building scalable cloud infrastructures.
 
-### **Frameworks & Tools:**
-- **JavaFX** - Crafting desktop applications.
-- **Flutter** - Building cross-platform mobile apps.
-- **Firebase** - Backend integration and authentication.
-- Git & GitHub - Version control and collaboration.
+Here are a few highlights about my journey:
+- 🎓 **Education:**  
+  - M.Sc. in Data Science, Gitam University (2022 - 2024) - CGPA: 8.2/10  
+  - B.Sc. in Computer Science, Sri Harshini UG & PG College (2018 - 2021) - Percentage: 80.2%  
+- 💼 **Professional Experience:**  
+  - AI/ML and Cloud Engineer Intern at METIS (May 2024 - Present)  
+  - ML Engineer Intern at CAP Corporate AI Solutions LLP (Aug 2024 - Oct 2024)
+  - ML Engineer At CAP Corporate AI Solutions LLP (Nov 2024 - Present)
 
-### **Other Skills:**
-- UI/UX Design 🎨
-- Database Management (SQL, NoSQL)
-- Agile Development Methodologies
+---
+
+## 💡 My Skills
+
+### **Data Science & Analytics**
+- Data Preprocessing, Statistical Analysis, Data Visualization  
+- ETL Pipelines and SQL/NoSQL Database Management  
+
+### **AI/Machine Learning**
+- TensorFlow, PyTorch, Scikit-learn, NLP, Computer Vision  
+- Neural Networks, Generative AI, and LLM Fine-tuning  
+
+### **Cloud Engineering**
+- AWS (EC2, S3, SageMaker, Lambda), GCP (Vertex AI, Compute Engine)  
+- Docker, Kubernetes, CI/CD, and Cloud Security  
+
+### **Specialized in LLMs**
+- LangChain, RAG, Prompt Engineering, and Vector Databases  
+- Developing intelligent chatbots and AI-driven solutions  
 
 ---
 
 ## 🚀 My Projects
 
-### 1️⃣ **[Project Name 1](#)**
-**Description:** Brief description of the project.  
-**Tech Stack:** Python, JavaFX, SQL  
-**Highlights:** Key features and outcomes.
+### **1️⃣ Advanced Malware Detection**
+**Description:** Leveraged ML and DL techniques for malware detection and classification.  
+**Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas  
 
-### 2️⃣ **[Project Name 2](#)**
-**Description:** Brief description of the project.  
-**Tech Stack:** Flutter, Firebase, TypeScript  
-**Highlights:** Key features and outcomes.
+### **2️⃣ Smart Document Assistant**
+**Description:** Voice-interactive document assistant powered by AI.  
+**Tech Stack:** Python, LLMs, RAG, Streamlit, Hugging Face  
 
-### 3️⃣ **[Project Name 3](#)**
-**Description:** Brief description of the project.  
-**Tech Stack:** Java, JavaFX, NoSQL  
-**Highlights:** Key features and outcomes.
+### **3️⃣ ETL Pipeline with Apache Airflow**
+**Description:** Automated ETL pipeline deployed on AWS.  
+**Tech Stack:** Apache Airflow, AWS, Python  
+
+### **4️⃣ Comprehensive Data Analysis and ML Dashboard**
+**Description:** A Streamlit-based web app for advanced data analysis and ML tools.  
+**Tech Stack:** Python, Scikit-learn, Streamlit  
+
+Check out more of my projects [here](https://github.com/Rambabucapcorporate/Rambabucapcorporate/tree/main).
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Rambabu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rambabucapcorporate&show_icons=true&theme=radical)
 
 ---
 
-## 🤝 Let's Connect!
+## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourProfile)
-- 🌐 [Portfolio](https://yourportfolio.com)
-- 📧 [Email](mailto:youremail@example.com)
+I’m always open to networking, collaborations, and exploring new opportunities. Feel free to reach out to me:
+
+- 📧 **Email:** [karravularambabu@gmail.com](mailto:karravularambabu@gmail.com)  
+- 📍 **Location:** Hyderabad, India  
 
 ---
 
-⭐ **Fun Fact:** *Insert a fun or interesting fact about yourself here!*
+⭐ **Fun Fact:** I enjoy continuous learning and exploring new advancements in AI/ML and cloud technologies!
+
+---
+_Thank you for visiting my GitHub profile!_
