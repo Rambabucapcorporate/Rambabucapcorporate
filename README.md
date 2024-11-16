@@ -40,7 +40,6 @@ Here are a few highlights about my journey:
 
 ---
 
----
 
 ## 📈 GitHub Stats
 
